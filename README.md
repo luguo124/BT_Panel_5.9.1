@@ -25,10 +25,10 @@ apt-get install wget && wget https://raw.githubusercontent.com/luguo124/BT_Panel
 
 已经安装面板
 Bt_Panel 脚本（升级开心版）：极速安装方式 (安装时间1至10秒)
-curl https://download.btpanel.net/install/update_pro.sh|bash
+curl https://raw.githubusercontent.com/luguo124/BT_Panel_5.9.1/master/update_pro.sh|bash
 
 
 
 
 不想使用开心版的，直接使用官方脚本转成免费
-wget -O update.sh http://download.bt.cn/install/update.sh && bash update.sh free
+wget -O update.sh https://raw.githubusercontent.com/luguo124/BT_Panel_5.9.1/master/update.sh && bash update.sh free
