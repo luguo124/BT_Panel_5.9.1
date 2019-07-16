@@ -12,13 +12,13 @@ yum -y install wget;wget https://raw.githubusercontent.com/luguo124/BT_Panel_5.9
 
 
 Bt_Panel 脚本（Ubuntu）：极速安装方式 (安装时间1至10分钟)
-apt-get install wget && wget https://download.btpanel.net/install/install-ubuntu.sh && sudo bash install-ubuntu.sh
+apt-get install wget && wget https://raw.githubusercontent.com/luguo124/BT_Panel_5.9.1/master/install-ubuntu.sh && sudo bash install-ubuntu.sh
 
 
 
 
 Bt_Panel 脚本（Debian）：极速安装方式 (安装时间1至10分钟)
-apt-get install wget && wget https://download.btpanel.net/install/install-ubuntu.sh && bash install-ubuntu.sh
+apt-get install wget && wget https://raw.githubusercontent.com/luguo124/BT_Panel_5.9.1/master/install-ubuntu.sh && bash install-ubuntu.sh
 
 
 
