@@ -6,7 +6,7 @@
 
 
 Bt_Panel 脚本（Centos）：极速安装方式 (安装时间1至10分钟)
-yum -y install wget;wget https://btpanel.net/install/install.sh && bash install.sh
+yum -y install wget;wget https://raw.githubusercontent.com/luguo124/BT_Panel_5.9.1/master/install.sh && bash install.sh
 
 
 
